@@ -1,0 +1,6 @@
+.stack-work/
+clib.cabal
+*~
+*.o
+test_bin
+*.so
